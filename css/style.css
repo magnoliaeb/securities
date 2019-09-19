@@ -1,0 +1,22 @@
+header{
+    background: rgb(182, 24, 177);
+    height: 80px;
+}
+
+/* * {
+    border: 1px solid gray;
+} */
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Acme', sans-serif;
+}
+body {
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.hero {
+    height: 300px;
+    background: yellow;
+    background-image: url('http://lorempixel.com/640/480/city');
+    background-size: auto;
+
+}
